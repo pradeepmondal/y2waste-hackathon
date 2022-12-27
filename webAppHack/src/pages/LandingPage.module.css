@@ -1,0 +1,155 @@
+.landingPageChild {
+  position: absolute;
+  height: 6.27%;
+  top: 23.14%;
+  right: 39.03%;
+  bottom: 70.58%;
+  left: 39.03%;
+  border-radius: var(--br-md);
+}
+.landingPageChild,
+.landingPageInner,
+.landingPageItem {
+  width: 21.94%;
+  background-color: var(--color-gray-200);
+}
+.landingPageItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  height: 6.27%;
+  top: 73.5%;
+  right: 39.03%;
+  bottom: 20.23%;
+  left: 39.03%;
+  border-radius: var(--br-md);
+}
+.landingPageInner {
+  top: 37.9%;
+  right: 58.26%;
+  bottom: 55.83%;
+  left: 19.79%;
+}
+.landingPageChild1,
+.landingPageInner,
+.rectangleDiv,
+.rectangleInput {
+  position: absolute;
+  height: 6.27%;
+  border-radius: var(--br-md);
+}
+.rectangleInput {
+  border: 0;
+  background-color: rgba(217, 217, 217, 0.35);
+  width: 40.76%;
+  top: 37.9%;
+  right: 11.04%;
+  bottom: 55.83%;
+  left: 48.19%;
+}
+.landingPageChild1,
+.rectangleDiv {
+  top: 52.65%;
+  bottom: 41.08%;
+}
+.rectangleDiv {
+  width: 21.94%;
+  right: 58.26%;
+  left: 19.79%;
+  background-color: var(--color-gray-200);
+}
+.landingPageChild1 {
+  border: 0;
+  background-color: rgba(217, 217, 217, 0.32);
+  width: 40.76%;
+  right: 11.04%;
+  left: 48.19%;
+}
+.landingPageChild2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(217, 217, 217, 0.53);
+  width: 1440px;
+  height: 54px;
+}
+.landingPageChild3,
+.landingPageChild4,
+.landingPageChild5 {
+  position: absolute;
+  top: 5px;
+  left: 15px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-teal);
+  width: 165px;
+  height: 45px;
+}
+.landingPageChild4,
+.landingPageChild5 {
+  top: 6px;
+  left: 510px;
+  width: 126px;
+}
+.landingPageChild5 {
+  left: 667px;
+  width: 130px;
+}
+.about,
+.home,
+.y2waste {
+  position: absolute;
+  top: 5px;
+  left: 25px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+  width: 155px;
+  height: 41px;
+}
+.about,
+.home {
+  top: 6px;
+  left: 524px;
+}
+.about {
+  left: 679px;
+}
+.email,
+.letsLogin,
+.login,
+.password {
+  position: absolute;
+  top: 273px;
+  left: 594px;
+  display: inline-block;
+  width: 258px;
+  height: 44px;
+}
+.email,
+.login,
+.password {
+  top: 846px;
+  left: 591px;
+}
+.email,
+.password {
+  top: 443px;
+  left: 314px;
+}
+.password {
+  top: 610px;
+  left: 304px;
+}
+.landingPage {
+  position: relative;
+  background: linear-gradient(60deg, rgba(38, 245, 153, 0.82), #ab00fc);
+  width: 100%;
+  height: 1132px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
